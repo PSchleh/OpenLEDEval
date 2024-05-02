@@ -1,0 +1,140 @@
+[
+  {
+    "objectID": "Topics/Viewing Angle and Color Shift.html",
+    "href": "Topics/Viewing Angle and Color Shift.html",
+    "title": "ETC Eval",
+    "section": "",
+    "text": "Improved/additional off-axis measurements\n\nHow far off axis can we go and still maintain DCI-P3?\n\nGamut will remain unchanged with viewing angle, but native WB and calibration will be off. Larger ∆E at angle\n\nHow far off axis can we go and still maintain 90% of luminance?\nThreshold for 5∆E Off Axis",
+    "crumbs": [
+      "Home",
+      "OpenLEDEval",
+      "Topics",
+      "Viewing Angle and Color Shift"
+    ]
+  },
+  {
+    "objectID": "Topics/Reliability.html",
+    "href": "Topics/Reliability.html",
+    "title": "ETC Eval",
+    "section": "",
+    "text": "Product reliability\n\nEstablish better language around reliability\nMTBF, MTBR\nRepairability\nReliability failover time - how long does automated diagnosis & recovery take\nX 9s uptime\nAging (calibration)\nProduct lifetime - address buyer’s remorse issues\n\nRange of performance to be in, not just at the pinnacle",
+    "crumbs": [
+      "Home",
+      "OpenLEDEval",
+      "Topics",
+      "Reliability"
+    ]
+  },
+  {
+    "objectID": "Topics/Multi Cam Features and Workflow.html",
+    "href": "Topics/Multi Cam Features and Workflow.html",
+    "title": "ETC Eval",
+    "section": "",
+    "text": "Overlapping frustums\nThings relevant\nProduct options\n\nROE will have a product with same drivers, module layout, etc on MVR/Brompton/Colorlight/Novastar\n\nTwo tiles of each\nBased on BP2 - 2.6/2.8\nMeant only for technical evals\nAvailable roughly May timeframe\nColorlight (& friends) tend to have more variance in attention to detail on electronics design\n\nLDM PCB layout can have impact on performance, and may change with processor choice\nSony Verona",
+    "crumbs": [
+      "Home",
+      "OpenLEDEval",
+      "Topics",
+      "Multi Cam Features and Workflow"
+    ]
+  },
+  {
+    "objectID": "Topics/Latency.html",
+    "href": "Topics/Latency.html",
+    "title": "PTP",
+    "section": "",
+    "text": "This stub file records some notes on latency testing and is not currently championed by any contributor. It is being managed by the wider ETC LED Eval Adminsitrative Group\n\nPTP\n\nEval difficulty of building a PTP setup\nLead-time issues getting server equipment to evaluate (DPUs)\nCamera/display/lighting compatibility\nNetgear switches are improved over Mellanox & Arista\nMichael Kohler # ST2110 “Stuff”",
+    "crumbs": [
+      "Home",
+      "OpenLEDEval",
+      "Topics",
+      "PTP"
+    ]
+  },
+  {
+    "objectID": "Topics/Cameras.html",
+    "href": "Topics/Cameras.html",
+    "title": "Spectral Sensitivity",
+    "section": "",
+    "text": "Spectral Sensitivity\n\nMeasure Sensitivity\n\nEvaluate Accuracy with ACES IDT\n\nCompared derived color adjustment matrix / LUT with empirical / measured correction\n\nARRI LED Calibrator\nSony VP Toolset\nOpen VP Cal 2.0",
+    "crumbs": [
+      "Home",
+      "OpenLEDEval",
+      "Topics",
+      "Spectral Sensitivity"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "This content appears above the formatted about page content.\n\n  \n \nOenLEDEval homepage\n \n  \n   \n  \n    \n     Github\n  \n\n\n\n\n\nThis content appears below the formatted about page content."
+  },
+  {
+    "objectID": "2024 Panel Validation.html",
+    "href": "2024 Panel Validation.html",
+    "title": "Objectives",
+    "section": "",
+    "text": "Objectives\n\nFinish up delinquent projects\n\nTucker & Ritchie\n\nPublish\n\nSummary document/snapshot of all code/findings/credits/…\n\nCredits: supporting vendors & individual contributors\n\nPush to ET Centric\n\n4 individuals/entities have now replicated our methodology\n\nTim K\n\nPublish\n\nAdd credits (names & companies)\nJanuary 23, 2024\n\n\n\n\n\n\nAdmin\n\nCan we find a project manager to keep us on track\n\nGithub AI\n\nTarget date(s) for\n\nPublications\n\nOutline evaluation plan for each objective\nSmaller publications per finding/evaluation to get them out with less latency\n\nVendor PR\n\nSet up ETC equipment library\n\nRequest loaner gear for up to a year from supporting/sponsoring vendors\n1-2 panels/processors of each flavor\nPossibly store at Fuse TG\nFor internal ETC use only?\nFor rental houses / intermediate groups / productions / studios\n\nDocument support system\n\nPaid access for core contributors only, not read-only access for general ETC consumers\nSponsorship for contributor tools?\nClickup (free tier?)\n\nEvaluated at ASC MITC, seemed to suit purposes\n\nNotion (free version has 1000 block limit)\nDropbox Paper\n\nEvaluated at ACES\n\nMedia storage for footage etc.\nGithub ✅ / Gitlab\n\nRitchie to make repo\nTucker @tjdcs\nPayton @pschleh\nJason @jtmetcalfe\nErik @etcenter\nMarcus ?\n\n\nMeeting cadence\n\n2 week working group cadence\nMove updates to quarterly\n\nAlignment with other groups (e.g., ASC, SMPTE, ESTA)\n\nETC provides topics & eval methodologies\nASC provides ‘recommended ranges’ for VP\nASC StEM3 VP\nSMPTE provides ‘recommended ranges’ for broadcast/XR\n…\n\n\n\n\nLibrary\nPlease see [Library], including the [[Library#Library Wishlist|Wish List!]] # Topics/Tasks - [ ] [[Latency]] - [ ] [[Latency#ST2110 “Stuff”|ST2110 “Stuff”]] - [ ] [[Latency#PTP|PTP]] - [ ] [[Color Precision & Reproduction]] - [ ] [[Color Precision & Reproduction#Low Luminance Detail Quality|Low Luminance Detail Quality]] - [ ] [[Color Precision & Reproduction#Spectral Sufficiency|RGB++++ Tests]] - [ ] [[Shutter angle compatibility]] - [ ] [[Multi Cam Features and Workflow]] - [ ] [[Viewing Angle and Color Shift]] - [ ] [[Reflectance]] - [ ] [[Reflectance#Curved Display Faceting|Curved Display Faceting]] - [ ] [[Reliability]] - [ ] [[Lighting Data and Synchronization]] - [ ] [[Cameras#Spectral Sensitivity|Camera Spectral Sensitivity]]"
+  },
+  {
+    "objectID": "Contributors.html",
+    "href": "Contributors.html",
+    "title": "Current Contributors",
+    "section": "",
+    "text": "This is a non-exhaustive list of contributors who provide assistance to the project in leadership, technical guidance, equipment loans, and more. If you think your name is missing from this list, it is likely accidental. Please email ledeval@doequalsglory.com or open an issue on this github repository.\n\nCurrent Contributors\nTucker Downs #tjdcs # 2023\nRitchie Argue Tim Kang Tucker Downs Markus Erik Weaver"
+  },
+  {
+    "objectID": "Library/Library.html",
+    "href": "Library/Library.html",
+    "title": "Currently Available",
+    "section": "",
+    "text": "The Open LED Eval Library is managed by #RitchieArgue",
+    "crumbs": [
+      "Home",
+      "OpenLEDEval",
+      "Library",
+      "Currently Available"
+    ]
+  },
+  {
+    "objectID": "Library/Library.html#tiles-for-processor-evaluation",
+    "href": "Library/Library.html#tiles-for-processor-evaluation",
+    "title": "Currently Available",
+    "section": "Tiles for Processor Evaluation",
+    "text": "Tiles for Processor Evaluation\nThe library is currently seeking a collection of LED tiles that have substantially similar design supporting a wide variety of available LED processors including #Megapixel #Brompton #Colorlight #Novastar and/or others.",
+    "crumbs": [
+      "Home",
+      "OpenLEDEval",
+      "Library",
+      "Currently Available"
+    ]
+  },
+  {
+    "objectID": "Topics/Color Precision & Reproduction.html",
+    "href": "Topics/Color Precision & Reproduction.html",
+    "title": "Spectral Sufficiency",
+    "section": "",
+    "text": "This stub file records some notes on color precision testing. It is currently championed by #tjdcs\n\nTo Improve from 2023\n\nDisplay spectral measurements (RGB+++) ^79a981\nWhat is the “right approach” to the +es\nWhat spectrums are the various products providing\nFootage to correlate to metrics\nRewrite TPG outside of UE\n\nhttps://store.portrait.com/consumer-software/patterns.html\nhttps://www.murideo.com/mu-six-g-8k.html\n\n\n\n\nSpectral Sufficiency\n\nWhat’s a useful minimum SSI to be looking at\nTM-30\nTim K to write an explainer for the above 😉\naddress by MITC # Low Luminance Detail Quality\nEvaluate shadow detail reproduction capability\n\nQuantization / banding in shadow ranges\nColor shift due to driver non-linearity\nLinearity correction\n\nPureTone & OptiTune\n\nEffect of white point on low-end performance\nRefresh rate impact\n\nScan methodologies\n\nDCI/ISDCF recommendation/guideline for measuring minimum active black\n\nDriver ability to overcome impedance/capacitance in lowest step out of black\nWhat is the magnitude of the first step compared to the magnitude difference from step 1 to 2",
+    "crumbs": [
+      "Home",
+      "OpenLEDEval",
+      "Topics",
+      "To Improve from 2023"
+    ]
+  },
+  {
+    "objectID": "Topics/Reflectance.html",
+    "href": "Topics/Reflectance.html",
+    "title": "Curved Display Faceting",
+    "section": "",
+    "text": "Reflectance\n\nWhat is actual impact on dynamic range of e.g., 3.5% to 2.5% improvement\n\nCan be calculated, but best demonstrated with a footage test\n\nUnderstand impact of real-world spill light, and when it overcomes content\nCamera tests to demonstrate loss in DR with respect to reflectance and flare (Lighting)\n\nCan #TimKang help organize and plan this?\n\n\n\n\nCurved Display Faceting\nCurved Display Faceting",
+    "crumbs": [
+      "Home",
+      "OpenLEDEval",
+      "Topics",
+      "Curved Display Faceting"
+    ]
+  }
+]
