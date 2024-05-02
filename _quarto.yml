@@ -18,8 +18,6 @@ website:
         text: Contributors
       - href: 2024 Panel Validation.md
         text: Documentation
-      - href: New.md
-        text: New
       
   sidebar: 
     - style: 'docked'
