@@ -30,7 +30,7 @@ website:
         
 format:
   html:
-    theme: yeti
+    theme: spacelab
     css: styles.css
     toc: false
 
