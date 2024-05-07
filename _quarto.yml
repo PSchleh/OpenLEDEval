@@ -12,7 +12,7 @@ website:
   navbar:
     search: true
     right:
-      - href: index.qmd #main landing page
+      - href: index.md #main landing page
         text: Home
       - href: Contributors.md
         text: Contributors
