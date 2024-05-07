@@ -12,7 +12,7 @@ about:
   
 ---
 
-### This content appears above the formatted about page content.
+### This content appears above the formatted about page content and you can use regular markdown files.
 
 :::{#hero-heading}
 
